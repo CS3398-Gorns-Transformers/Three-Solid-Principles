@@ -1,1 +1,1 @@
-# Three-Solid-Principles
+# ThreeSolidPrinciples
